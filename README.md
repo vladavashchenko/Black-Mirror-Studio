@@ -42,7 +42,9 @@
   <h1>Black Mirror Studio</h1>
   <div class="info">📞 794 087 048</div>
   <div class="info">📍 ul. Bolesława Krzywoustego (os. Słowiańskie), Jawor, 59-400</div>
-  <a class="button" href="(https://www.facebook.com/share/16YMuJL2vN/?mibextid=wwXIfr)" target="_blank">Zobacz wszystko na Facebooku</a>
+  <a href="https://www.facebook.com/share/12JDom8p7ik/?mibextid=wwXIfr" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #1877f2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Zobacz wszystko na Facebooku
+</a>
 
 </body>
 </html>
