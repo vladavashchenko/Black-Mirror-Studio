@@ -13,7 +13,7 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: #f2f2f2;
+      background-color: #000000;
       text-align: center;
     }
     h1 {
